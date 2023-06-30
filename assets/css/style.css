@@ -90,6 +90,7 @@
     justify-content: center;
     height: 100%;
     right: -40px;
+    transition: all 500ms linear;
 
     /* right: -40px; */
 }
@@ -124,7 +125,7 @@
 
 .card:hover .iconboxcontainer {
     right: 0;
-    transition: all 500ms linear;
+    
 }
 
 .col_12 {
